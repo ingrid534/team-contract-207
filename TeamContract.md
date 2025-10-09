@@ -76,3 +76,5 @@ Team Member Signatures:
 Ingrid Florea 
 
 Steven Yang
+
+Jiesoo Kim
