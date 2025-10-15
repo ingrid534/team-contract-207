@@ -80,3 +80,5 @@ Steven Yang
 Jiesoo Kim
 
 Judah Bar-Tur
+
+Alisa Dubina
